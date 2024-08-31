@@ -1,0 +1,2 @@
+# Wedding-Management-system-UML-diagrams-Object-oriented-analysis-and-design
+This repository contains UML diagrams for the Wedding Management System, showcasing the system's architecture and key interactions. It includes Use Case and Class Diagrams, highlighting roles, components, and relationships. Ideal for developers and stakeholders, these diagrams offer quick insights into the system’s design and functionality.
