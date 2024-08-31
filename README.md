@@ -17,3 +17,6 @@ Explore each diagram to understand the specific aspect of the system it represen
 Use the diagrams as a reference for implementing, modifying, or extending the system.
 Collaborators and contributors can use these diagrams to quickly get up to speed with the system's structure and functionality.
 Feel free to explore the diagrams to get a comprehensive understanding of the Wedding Management System's architecture and design.
+
+
+further diagrams will be added soon..........
